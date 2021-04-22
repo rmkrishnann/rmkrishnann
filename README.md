@@ -1,4 +1,6 @@
-- 👋 Hi, I’m Murali
+Hello All 👋
+
+- I’m Murali
 - 👀 I’m interested in Testing tools
 - 🌱 I’m currently learning API automation, spock & geb, cucumber
 - 💞️ I’m looking to collaborate on Testing tools
