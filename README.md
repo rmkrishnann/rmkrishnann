@@ -1,8 +1,8 @@
 Hello All 👋
 
 - I’m Murali
-- 👀 I’m interested in Testing tools
-- 🌱 I’m currently learning API automation, spock & geb, cucumber
+- 👀 I’m interested in Testing tools & Project Management
+- 🌱 I’m currently learning API automation, spock & geb, cucumber and PMO
 - 💞️ I’m looking to collaborate on Testing tools
 - 📫 How to reach me [LinkedIN](https://www.linkedin.com/in/murali-r-697520102/)
 
